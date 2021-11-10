@@ -183,4 +183,5 @@ For example, we have two '**.locus_summary**' files: '*pop1.locus_summary*' and 
 When using ```WinXPCNVer```, please cite:
 
 Lou H, Lu Y, Lu D, Fu R, Wang X, Feng Q, Wu S, Yang Y, Li S, Kang L, Guan Y, Hoh BP, Chung YJ, Jin L, Su B, Xu S. A 3.4-kb Copy-Number Deletion near EPAS1 Is Significantly Enriched in High-Altitude Tibetans but Absent from the Denisovan Sequence. Am J Hum Genet. 2015 Jul 2;97(1):54-66. doi: 10.1016/j.ajhg.2015.05.005. Epub 2015 Jun 11. PMID: 26073780; PMCID: PMC4572470.
+
 (https://www.cell.com/ajhg/fulltext/S0002-9297(15)00191-3)
