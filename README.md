@@ -1,13 +1,6 @@
 # WinXPCNVer
 WinXPCNVer is tool package for calculating the Vst values between two populations probe by probe in a sliding window, which could be used to detect highly differentiated variants between populations. 
 
-Related Publication: Am.J.Hum.Genet. 97(1):54-66. 
-
-Link:http://www.cell.com/ajhg/abstract/S0002-9297%2815%2900191-3
-
-Author: Haiyi Lou, Yan Lu, Dongsheng Lu, Ruiqing Fu, Xiaoji Wang, Qidi Feng, Sijie Wu, Yajun Yang, Shilin Li, Longli Kang, Yaqun Guan, Boon-Peng Hoh, Yeun-Jun Chung, Li Jin, Bing Su, and Shuhua Xu
-
-
 ## Overview  
 **WinXPCNVer** is tool package for calculating the ***Vst*** values between two populations probe by probe in a sliding window, which could be used to detect highly differentiated variants between populations.
 
@@ -186,3 +179,8 @@ For example, we have two '**.locus_summary**' files: '*pop1.locus_summary*' and 
 	>WinXPCNVdiffer.pl -v pop1_pop2.Vst.txt --winsize 3000 --prb_cri 5 --prb_top 3 
 	# pop1_pop2.Vst.VstW.win3000.5prb.top3.txt
 
+## Citation
+When using ```WinXPCNVer```, please cite:
+
+Lou H, Lu Y, Lu D, Fu R, Wang X, Feng Q, Wu S, Yang Y, Li S, Kang L, Guan Y, Hoh BP, Chung YJ, Jin L, Su B, Xu S. A 3.4-kb Copy-Number Deletion near EPAS1 Is Significantly Enriched in High-Altitude Tibetans but Absent from the Denisovan Sequence. Am J Hum Genet. 2015 Jul 2;97(1):54-66. doi: 10.1016/j.ajhg.2015.05.005. Epub 2015 Jun 11. PMID: 26073780; PMCID: PMC4572470.
+(https://www.cell.com/ajhg/fulltext/S0002-9297(15)00191-3)
